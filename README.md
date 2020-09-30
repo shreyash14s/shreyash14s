@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm **Shreyash S Sarnayak**. Currently working at **Samsung R&D Institute, Bangalore**
+
 <!--
 **shreyash14s/shreyash14s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
